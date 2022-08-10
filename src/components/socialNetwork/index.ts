@@ -1,0 +1,11 @@
+export { default as Facebook } from './Facebook';
+export { default as Instagram } from './Instagram';
+export { default as Messenger } from './Messenger';
+export { default as Pinterest } from './Pinterest';
+export { default as Skype } from './Skype';
+export { default as Snapchat } from './Snapchat';
+export { default as Telegram } from './Telegram';
+export { default as TikTok } from './TikTok';
+export { default as Twitter } from './Twitter';
+export { default as WhatsApp } from './WhatsApp';
+export { default as YouTube } from './YouTube';
