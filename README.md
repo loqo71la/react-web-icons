@@ -1,6 +1,7 @@
 # React Web Icons
 [![NPM](https://img.shields.io/npm/v/@loqo71la/react-web-icons?color=CB061D&style=flat-square)](https://www.npmjs.com/package/@loqo71la/react-web-icons)
-![Publish](https://github.com/loqo71la/react-web-icons/actions/workflows/publish-package.yml/badge.svg)
+![Build](https://github.com/loqo71la/react-web-icons/actions/workflows/publish-package.yml/badge.svg)
+[![License](https://img.shields.io/npm/l/@loqo71la/react-web-icons?color=008660&style=flat-square)](https://github.com/loqo71la/react-web-icons/blob/main/LICENSE)
 
 It's a compilation of the more used icons for the web based on [Simple Icons](https://simpleicons.org/) and [Boostrap Icons](https://icons.getbootstrap.com/)
 

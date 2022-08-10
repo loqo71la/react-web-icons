@@ -1,6 +1,6 @@
 {
   "name": "@loqo71la/react-web-icons",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "It's a compilation of the more common web icons",
   "keywords": [
     "react",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/loqo71la/react-web-icons.git"
   },
-  "author": "loqo71la",
+  "author": "loqo71la <hello@loqo71la.dev>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/loqo71la/react-web-icons/issues"
