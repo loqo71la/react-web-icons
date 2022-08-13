@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const GitLab: React.FC<SvgProps> = ({ title = 'GitLab', className = '' }) => {
   return (

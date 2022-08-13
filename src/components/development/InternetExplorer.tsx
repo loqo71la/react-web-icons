@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const InternetExplorer: React.FC<SvgProps> = ({ title = 'Internet Explorer', className = '' }) => {
   return (

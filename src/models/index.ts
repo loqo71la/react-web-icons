@@ -1,0 +1,1 @@
+export { SvgProps } from './SvgProps';

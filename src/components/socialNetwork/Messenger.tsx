@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const Messenger: React.FC<SvgProps> = ({ title = 'Messenger', className = '' }) => {
   return (
