@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const Firebase: React.FC<SvgProps> = ({ title = 'Firebase', className = '' }) => {
   return (

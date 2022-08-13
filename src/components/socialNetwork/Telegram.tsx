@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const Telegram: React.FC<SvgProps> = ({ title = 'Telegram', className = '' }) => {
   return (

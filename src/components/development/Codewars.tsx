@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const Codewars: React.FC<SvgProps> = ({ title = 'Codewars', className = '' }) => {
   return (

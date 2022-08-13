@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const Firefox: React.FC<SvgProps> = ({ title = 'Firefox', className = '' }) => {
   return (

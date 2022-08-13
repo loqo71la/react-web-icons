@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const YouTube: React.FC<SvgProps> = ({ title = 'YouTube', className = '' }) => {
   return (

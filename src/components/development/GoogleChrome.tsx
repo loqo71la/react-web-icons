@@ -1,5 +1,5 @@
 import React from 'react';
-import { SvgProps } from '../../models/SvgProps';
+import { SvgProps } from '../../models';
 
 const GoogleChrome: React.FC<SvgProps> = ({ title = 'Google Chrome', className = '' }) => {
   return (
