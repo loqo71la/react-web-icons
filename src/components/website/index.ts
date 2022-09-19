@@ -15,7 +15,7 @@ export { default as Grid1x2Fill } from './Grid1x2Fill';
 export { default as Heart } from './Heart';
 export { default as HeartFill } from './HeartFill';
 export { default as List } from './List';
-export { default as PencilList } from './PencilFill';
+export { default as PencilFill } from './PencilFill';
 export { default as PencilSquare } from './PencilSquare';
 export { default as People } from './People';
 export { default as PeopleFill } from './PeopleFill';
