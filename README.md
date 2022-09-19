@@ -45,19 +45,6 @@ function Sangle() {
 - <img src="https://simpleicons.org/icons/internetexplorer.svg" width="32"/> InternetExplorer
 - <img src="https://simpleicons.org/icons/jenkins.svg" width="32"/> Jenkins
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Social Network
 - <img src="https://simpleicons.org/icons/facebook.svg" width="32"/> Facebook
 - <img src="https://simpleicons.org/icons/instagram.svg" width="32"/> Instagram
@@ -84,10 +71,16 @@ function Sangle() {
 - <img src="https://icons.getbootstrap.com/assets/icons/cloud-check-fill.svg" width="32"/> CloudCheckFill
 - <img src="https://icons.getbootstrap.com/assets/icons/file-pdf-fill.svg" width="32"/> FilePdfFill
 - <img src="https://icons.getbootstrap.com/assets/icons/gear-fill.svg" width="32"/> GearFill
+- <img src="https://icons.getbootstrap.com/assets/icons/grid-1x2.svg" width="32"/> Grid1x2
+- <img src="https://icons.getbootstrap.com/assets/icons/grid-1x2-fill.svg" width="32"/> Grid1x2Fill
 - <img src="https://icons.getbootstrap.com/assets/icons/heart.svg" width="32"/> Heart
 - <img src="https://icons.getbootstrap.com/assets/icons/heart-fill.svg" width="32"/> HeartFill
 - <img src="https://icons.getbootstrap.com/assets/icons/list.svg" width="32"/> List
+- <img src="https://icons.getbootstrap.com/assets/icons/pencil-fill.svg" width="32"/> PencilFill
 - <img src="https://icons.getbootstrap.com/assets/icons/pencil-square.svg" width="32"/> PencilSquare
+- <img src="https://icons.getbootstrap.com/assets/icons/people.svg" width="32"/> People
+- <img src="https://icons.getbootstrap.com/assets/icons/people-fill.svg" width="32"/> PeopleFill
+- <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" width="32"/> PersonFill
 - <img src="https://icons.getbootstrap.com/assets/icons/search.svg" width="32"/> Search
 - <img src="https://icons.getbootstrap.com/assets/icons/star.svg" width="32"/> Star
 - <img src="https://icons.getbootstrap.com/assets/icons/star-fill.svg" width="32"/> StarFill
