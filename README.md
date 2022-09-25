@@ -39,6 +39,7 @@ function Sangle() {
 - <img src="https://simpleicons.org/icons/firefox.svg" width="32"/> Firefox
 - <img src="https://simpleicons.org/icons/github.svg" width="32"/> GitHub
 - <img src="https://simpleicons.org/icons/gitlab.svg" width="32"/> GitLab
+- <img src="https://simpleicons.org/icons/google.svg" width="32"/> Google
 - <img src="https://simpleicons.org/icons/googlechrome.svg" width="32"/> GoogleChrome
 - <img src="https://simpleicons.org/icons/hackerrank.svg" width="32"/> HackerRank
 - <img src="https://simpleicons.org/icons/heroku.svg" width="32"/> Heroku
@@ -82,6 +83,12 @@ function Sangle() {
 - <img src="https://icons.getbootstrap.com/assets/icons/people-fill.svg" width="32"/> PeopleFill
 - <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" width="32"/> PersonFill
 - <img src="https://icons.getbootstrap.com/assets/icons/search.svg" width="32"/> Search
+- <img src="https://icons.getbootstrap.com/assets/icons/sort-alpha-down.svg" width="32"/> SortAlphaDown
+- <img src="https://icons.getbootstrap.com/assets/icons/sort-alpha-down-alt.svg" width="32"/> SortAlphaDownAlt
+- <img src="https://icons.getbootstrap.com/assets/icons/sort-down.svg" width="32"/> SortDown
+- <img src="https://icons.getbootstrap.com/assets/icons/sort-down-alt.svg" width="32"/> SortDownAlt
+- <img src="https://icons.getbootstrap.com/assets/icons/sort-numeric-down.svg" width="32"/> SortNumericDown
+- <img src="https://icons.getbootstrap.com/assets/icons/sort-numeric-down-alt.svg" width="32"/> SortNumericDownAlt
 - <img src="https://icons.getbootstrap.com/assets/icons/star.svg" width="32"/> Star
 - <img src="https://icons.getbootstrap.com/assets/icons/star-fill.svg" width="32"/> StarFill
 - <img src="https://icons.getbootstrap.com/assets/icons/star-half.svg" width="32"/> StarHalf

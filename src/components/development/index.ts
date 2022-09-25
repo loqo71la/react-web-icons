@@ -5,6 +5,7 @@ export { default as Firebase } from './Firebase';
 export { default as Firefox } from './Firefox';
 export { default as GitHub } from './GitHub';
 export { default as GitLab } from './GitLab';
+export { default as Google } from './Google';
 export { default as GoogleChrome } from './GoogleChrome';
 export { default as HackerRank } from './HackerRank';
 export { default as Heroku } from './Heroku';
