@@ -1,7 +1,7 @@
 import React from 'react';
 import { SvgProps } from '../../models';
 
-const GoogleChrome: React.FC<SvgProps> = ({ title = 'Google', className = '' }) => {
+const Google: React.FC<SvgProps> = ({ title = 'Google', className = '' }) => {
   return (
     <svg role="img" className={className} viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
       <title>{title}</title>
@@ -10,4 +10,4 @@ const GoogleChrome: React.FC<SvgProps> = ({ title = 'Google', className = '' }) 
   );
 };
 
-export default GoogleChrome;
+export default Google;

@@ -1,7 +1,7 @@
 import React from 'react';
 import { SvgProps } from '../../models';
 
-const ChevronDown: React.FC<SvgProps> = ({ title = '', className = '' }) => {
+const ChevronRight: React.FC<SvgProps> = ({ title = '', className = '' }) => {
   return (
     <svg className={className} viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
       <title>{title}</title>
@@ -10,4 +10,4 @@ const ChevronDown: React.FC<SvgProps> = ({ title = '', className = '' }) => {
   );
 };
 
-export default ChevronDown;
+export default ChevronRight;

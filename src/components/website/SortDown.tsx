@@ -1,7 +1,7 @@
 import React from 'react';
 import { SvgProps } from '../../models';
 
-const StarHalf: React.FC<SvgProps> = ({ title = '', className = '' }) => {
+const SortDown: React.FC<SvgProps> = ({ title = '', className = '' }) => {
   return (
     <svg className={className} viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
       <title>{title}</title>
@@ -10,4 +10,4 @@ const StarHalf: React.FC<SvgProps> = ({ title = '', className = '' }) => {
   );
 };
 
-export default StarHalf;
+export default SortDown;

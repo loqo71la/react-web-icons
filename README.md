@@ -33,8 +33,14 @@ function Sangle() {
 
 ## Development
 - <img src="https://simpleicons.org/icons/amazonaws.svg" width="32"/> AmazonAWS 
+- <img src="https://simpleicons.org/icons/angular.svg" width="32"/> Angular
+- <img src="https://simpleicons.org/icons/bitbucket.svg" width="32"/> Bitbucket
+- <img src="https://simpleicons.org/icons/bootstrap.svg" width="32"/> Bootstrap
 - <img src="https://simpleicons.org/icons/codecov.svg" width="32"/> Codecov
 - <img src="https://simpleicons.org/icons/codewars.svg" width="32"/> Codewars
+- <img src="https://simpleicons.org/icons/docker.svg" width="32"/> Docker
+- <img src="https://simpleicons.org/icons/dotenv.svg" width="32"/> DotENV
+- <img src="https://simpleicons.org/icons/dotnet.svg" width="32"/> DotNET
 - <img src="https://simpleicons.org/icons/firebase.svg" width="32"/> Firebase
 - <img src="https://simpleicons.org/icons/firefox.svg" width="32"/> Firefox
 - <img src="https://simpleicons.org/icons/github.svg" width="32"/> GitHub
@@ -45,6 +51,8 @@ function Sangle() {
 - <img src="https://simpleicons.org/icons/heroku.svg" width="32"/> Heroku
 - <img src="https://simpleicons.org/icons/internetexplorer.svg" width="32"/> InternetExplorer
 - <img src="https://simpleicons.org/icons/jenkins.svg" width="32"/> Jenkins
+- <img src="https://simpleicons.org/icons/microsoftazure.svg" width="32"/> MicrosoftAzure
+- <img src="https://simpleicons.org/icons/npm.svg" width="32"/> Npm
 
 ## Social Network
 - <img src="https://simpleicons.org/icons/facebook.svg" width="32"/> Facebook
@@ -52,6 +60,7 @@ function Sangle() {
 - <img src="https://simpleicons.org/icons/messenger.svg" width="32"/> Messenger
 - <img src="https://simpleicons.org/icons/pinterest.svg" width="32"/> Pinterest
 - <img src="https://simpleicons.org/icons/skype.svg" width="32"/> Skype
+- <img src="https://simpleicons.org/icons/slack.svg" width="32"/> Slack
 - <img src="https://simpleicons.org/icons/snapchat.svg" width="32"/> Snapchat
 - <img src="https://simpleicons.org/icons/telegram.svg" width="32"/> Telegram
 - <img src="https://simpleicons.org/icons/tiktok.svg" width="32"/> Tiktok
@@ -60,7 +69,9 @@ function Sangle() {
 - <img src="https://simpleicons.org/icons/youtube.svg" width="32"/> Youtube
 
 ## Website
+- <img src="https://icons.getbootstrap.com/assets/icons/calculator.svg" width="32"/> Calculator
 - <img src="https://icons.getbootstrap.com/assets/icons/calculator-fill.svg" width="32"/> CalculatorFill
+- <img src="https://icons.getbootstrap.com/assets/icons/check-circle.svg" width="32"/> CheckCircle
 - <img src="https://icons.getbootstrap.com/assets/icons/check-circle-fill.svg" width="32"/> CheckCircleFill
 - <img src="https://icons.getbootstrap.com/assets/icons/chevron-down.svg" width="32"/> ChevronDown
 - <img src="https://icons.getbootstrap.com/assets/icons/chevron-expand.svg" width="32"/> ChevronExpand
@@ -68,19 +79,25 @@ function Sangle() {
 - <img src="https://icons.getbootstrap.com/assets/icons/chevron-right.svg" width="32"/> ChevronRight
 - <img src="https://icons.getbootstrap.com/assets/icons/chevron-up.svg" width="32"/> ChevronUp
 - <img src="https://icons.getbootstrap.com/assets/icons/circle.svg" width="32"/> Circle
+- <img src="https://icons.getbootstrap.com/assets/icons/clipboard.svg" width="32"/> Clipboard
 - <img src="https://icons.getbootstrap.com/assets/icons/clipboard-fill.svg" width="32"/> ClipboardFill
+- <img src="https://icons.getbootstrap.com/assets/icons/cloud-check.svg" width="32"/> CloudCheck
 - <img src="https://icons.getbootstrap.com/assets/icons/cloud-check-fill.svg" width="32"/> CloudCheckFill
+- <img src="https://icons.getbootstrap.com/assets/icons/file-pdf.svg" width="32"/> FilePdf
 - <img src="https://icons.getbootstrap.com/assets/icons/file-pdf-fill.svg" width="32"/> FilePdfFill
+- <img src="https://icons.getbootstrap.com/assets/icons/gear.svg" width="32"/> Gear
 - <img src="https://icons.getbootstrap.com/assets/icons/gear-fill.svg" width="32"/> GearFill
 - <img src="https://icons.getbootstrap.com/assets/icons/grid-1x2.svg" width="32"/> Grid1x2
 - <img src="https://icons.getbootstrap.com/assets/icons/grid-1x2-fill.svg" width="32"/> Grid1x2Fill
 - <img src="https://icons.getbootstrap.com/assets/icons/heart.svg" width="32"/> Heart
 - <img src="https://icons.getbootstrap.com/assets/icons/heart-fill.svg" width="32"/> HeartFill
 - <img src="https://icons.getbootstrap.com/assets/icons/list.svg" width="32"/> List
+- <img src="https://icons.getbootstrap.com/assets/icons/pencil.svg" width="32"/> Pencil
 - <img src="https://icons.getbootstrap.com/assets/icons/pencil-fill.svg" width="32"/> PencilFill
 - <img src="https://icons.getbootstrap.com/assets/icons/pencil-square.svg" width="32"/> PencilSquare
 - <img src="https://icons.getbootstrap.com/assets/icons/people.svg" width="32"/> People
 - <img src="https://icons.getbootstrap.com/assets/icons/people-fill.svg" width="32"/> PeopleFill
+- <img src="https://icons.getbootstrap.com/assets/icons/person.svg" width="32"/> Person
 - <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" width="32"/> PersonFill
 - <img src="https://icons.getbootstrap.com/assets/icons/search.svg" width="32"/> Search
 - <img src="https://icons.getbootstrap.com/assets/icons/sort-alpha-down.svg" width="32"/> SortAlphaDown
@@ -95,5 +112,7 @@ function Sangle() {
 - <img src="https://icons.getbootstrap.com/assets/icons/toggle-off.svg" width="32"/> ToggleOff
 - <img src="https://icons.getbootstrap.com/assets/icons/toggle-on.svg" width="32"/> ToggleOn
 - <img src="https://icons.getbootstrap.com/assets/icons/tools.svg" width="32"/> Tools
+- <img src="https://icons.getbootstrap.com/assets/icons/trash2.svg" width="32"/> Trash2
 - <img src="https://icons.getbootstrap.com/assets/icons/trash2-fill.svg" width="32"/> Trash2Fill
+- <img src="https://icons.getbootstrap.com/assets/icons/x-circle.svg" width="32"/> XCircle
 - <img src="https://icons.getbootstrap.com/assets/icons/x-circle-fill.svg" width="32"/> XCircleFill
