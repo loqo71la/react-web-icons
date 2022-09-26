@@ -92,6 +92,8 @@ function Sangle() {
 - <img src="https://icons.getbootstrap.com/assets/icons/heart.svg" width="32"/> Heart
 - <img src="https://icons.getbootstrap.com/assets/icons/heart-fill.svg" width="32"/> HeartFill
 - <img src="https://icons.getbootstrap.com/assets/icons/list.svg" width="32"/> List
+- <img src="https://icons.getbootstrap.com/assets/icons/moon.svg" width="32"/> Moon
+- <img src="https://icons.getbootstrap.com/assets/icons/moon-fill.svg" width="32"/> MoonFill
 - <img src="https://icons.getbootstrap.com/assets/icons/pencil.svg" width="32"/> Pencil
 - <img src="https://icons.getbootstrap.com/assets/icons/pencil-fill.svg" width="32"/> PencilFill
 - <img src="https://icons.getbootstrap.com/assets/icons/pencil-square.svg" width="32"/> PencilSquare
@@ -109,6 +111,10 @@ function Sangle() {
 - <img src="https://icons.getbootstrap.com/assets/icons/star.svg" width="32"/> Star
 - <img src="https://icons.getbootstrap.com/assets/icons/star-fill.svg" width="32"/> StarFill
 - <img src="https://icons.getbootstrap.com/assets/icons/star-half.svg" width="32"/> StarHalf
+- <img src="https://icons.getbootstrap.com/assets/icons/sun.svg" width="32"/> Sun
+- <img src="https://icons.getbootstrap.com/assets/icons/sun-fill.svg" width="32"/> SunFill
+- <img src="https://icons.getbootstrap.com/assets/icons/tag.svg" width="32"/> Tag
+- <img src="https://icons.getbootstrap.com/assets/icons/tag-fill.svg" width="32"/> TagFill
 - <img src="https://icons.getbootstrap.com/assets/icons/toggle-off.svg" width="32"/> ToggleOff
 - <img src="https://icons.getbootstrap.com/assets/icons/toggle-on.svg" width="32"/> ToggleOn
 - <img src="https://icons.getbootstrap.com/assets/icons/tools.svg" width="32"/> Tools
