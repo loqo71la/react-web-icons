@@ -16,6 +16,7 @@ export { default as GoogleChrome } from './GoogleChrome';
 export { default as HackerRank } from './HackerRank';
 export { default as Heroku } from './Heroku';
 export { default as InternetExplorer } from './InternetExplorer';
+export { default as Java } from './Java';
 export { default as Jenkins } from './Jenkins';
 export { default as MicrosoftAzure } from './MicrosoftAzure';
 export { default as Npm } from './Npm';

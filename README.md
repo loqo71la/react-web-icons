@@ -50,6 +50,7 @@ function Sangle() {
 - <img src="https://simpleicons.org/icons/hackerrank.svg" width="32"/> HackerRank
 - <img src="https://simpleicons.org/icons/heroku.svg" width="32"/> Heroku
 - <img src="https://simpleicons.org/icons/internetexplorer.svg" width="32"/> InternetExplorer
+- <img src="./icons/java.svg" width="32"/> Java
 - <img src="https://simpleicons.org/icons/jenkins.svg" width="32"/> Jenkins
 - <img src="https://simpleicons.org/icons/microsoftazure.svg" width="32"/> MicrosoftAzure
 - <img src="https://simpleicons.org/icons/npm.svg" width="32"/> Npm
